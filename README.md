@@ -1,4 +1,4 @@
-#BookUsNow
+###BookUsNow
 
 Bookusnow is a web application. It is built using React.js and Tailwind CSS.
 
@@ -19,13 +19,3 @@ To get started with this project, follow these steps:
 ###Deployment
 This project is deployed on Vercel.
 Deployment Link:https://book-us-now-two.vercel.app/
-
-
-
-
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
