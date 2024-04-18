@@ -20,7 +20,8 @@ To get started with this project, follow these steps:
 4.Open http://localhost:3000 in your browser.
 
 
-###Deployment
+### Deployment
+
 This project is deployed on Vercel.
 
 Deployment Link:https://book-us-now-two.vercel.app/
